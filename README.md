@@ -1,2 +1,1 @@
-# careerflow-ai
-AI Resume Builder for iPhone &amp; Android
+# CareerFlow V0.2

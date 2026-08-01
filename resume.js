@@ -1,0 +1,1 @@
+document.getElementById('gen').onclick=()=>alert('Resume preview will arrive in V0.3');
