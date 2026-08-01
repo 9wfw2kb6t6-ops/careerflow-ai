@@ -1,1 +1,1 @@
-body{font-family:Arial;background:#eef4ff}.box{max-width:600px;margin:40px auto;background:#fff;padding:20px;border-radius:12px}input,textarea,button{width:100%;margin:10px 0;padding:10px}
+body{font-family:Arial;background:#0f172a;color:#fff;display:flex;justify-content:center;align-items:center;height:100vh}.card{background:#1e293b;padding:30px;border-radius:16px;width:320px}input,button{width:100%;margin:10px 0;padding:12px;border-radius:10px;border:none}button{background:#2563eb;color:#fff}

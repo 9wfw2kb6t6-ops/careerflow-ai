@@ -1,2 +1,2 @@
-# CareerFlow V0.5
-Prototype AI summary generator.
+# CareerFlow V0.6
+Login and dashboard prototype.
