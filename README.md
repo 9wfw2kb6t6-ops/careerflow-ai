@@ -1,1 +1,2 @@
-# CareerFlow V1.0 Preview
+# CareerFlow V2.0 Design Preview
+Modern dashboard concept.
