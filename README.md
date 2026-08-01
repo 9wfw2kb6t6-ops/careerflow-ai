@@ -1,2 +1,2 @@
-# CareerFlow V0.3
-Live resume preview.
+# CareerFlow V0.4
+Save + Print(PDF)+Photo preview.
