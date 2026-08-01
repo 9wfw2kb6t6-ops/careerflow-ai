@@ -1,0 +1,1 @@
+gen.onclick=()=>{result.value=`Dear Hiring Manager at ${company.value},\n\nI am excited to apply for the ${role.value} position...\n\nSincerely`;};
