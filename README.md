@@ -1,2 +1,1 @@
-# CareerFlow V0.9
-Interview practice prototype.
+# CareerFlow V1.0 Preview
