@@ -1,0 +1,1 @@
+save.onclick=()=>{localStorage.theme=dark.checked?'dark':'light';localStorage.lang=lang.value;alert('Settings saved');};

@@ -1,2 +1,2 @@
-# CareerFlow V0.6
-Login and dashboard prototype.
+# CareerFlow V0.7
+Settings prototype.
