@@ -1,2 +1,2 @@
-# CareerFlow V0.4
-Save + Print(PDF)+Photo preview.
+# CareerFlow V0.5
+Prototype AI summary generator.
