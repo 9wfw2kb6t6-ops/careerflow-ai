@@ -1,0 +1,1 @@
+const qs=['Tell me about yourself.','Why do you want this job?','What is your biggest strength?','Describe a challenge you solved.'];let i=0;next.onclick=()=>{question.textContent=qs[i%qs.length];i++;};

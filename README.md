@@ -1,2 +1,2 @@
-# CareerFlow V0.8
-Cover letter generator prototype.
+# CareerFlow V0.9
+Interview practice prototype.
