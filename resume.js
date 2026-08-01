@@ -1,1 +1,1 @@
-document.getElementById('gen').onclick=()=>alert('Resume preview will arrive in V0.3');
+['name','job','skills'].forEach(id=>document.getElementById(id).oninput=()=>{pname.textContent=name.value||'Your Name';pjob.textContent=job.value||'Job Title';pskills.textContent=skills.value||'Your skills will appear here.';});
